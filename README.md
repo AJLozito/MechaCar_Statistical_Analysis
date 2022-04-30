@@ -18,10 +18,12 @@ Deliverable 1
 Deliverable 2
 
 ![image](https://user-images.githubusercontent.com/96176817/166122437-98484ad5-feea-40b5-b0b3-a91b2cd801dc.png)
-Since the total summary variance was 62.29 (less than 100), the manufacturing data meets the design specification.
+
+•	Since the total summary variance was 62.29 (less than 100), the manufacturing data meets the design specification.
 
 ![image](https://user-images.githubusercontent.com/96176817/166122492-3f936f53-7cf9-4839-b1f6-2e0541bb253d.png)
-The first two lots have variances of .97 and 7.46, so they both meet the design specification, but the third has a variance of 170.28, so it does not.
+
+•	The first two lots have variances of .97 and 7.46, so they both meet the design specification, but the third has a variance of 170.28, so it does not.
 
 
 I am seeking help on the rest of this project.
