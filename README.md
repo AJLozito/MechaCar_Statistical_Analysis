@@ -48,7 +48,7 @@ o	The p-value of .04 is less than the .05 significance level, so this lot is sta
 ## Study Design: MechaCar vs Competition
 Deliverable 4
 
--	Customers consider maintenance cost to be an important factor when purchasing a vehicle. A metric to test would be the average maintenance cost over a 5-year ownership period.
+Customers consider maintenance cost to be an important factor when purchasing a vehicle. A metric to test would be the average maintenance cost over a 5-year ownership period.
 
 o	Null hypothesis: There is no difference between the cost of owning a MechaCar versus a competitor.
 
