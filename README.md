@@ -1,5 +1,7 @@
 # MechaCar_Statistical_Analysis
 
+
+## Linear Regression to Predict MPG
 Deliverable 1
 
 •	The variables/coefficients listed	 below provide the most non-random amount of variance to the mpg values in the dataset:
@@ -15,6 +17,7 @@ Deliverable 1
 ![image](https://user-images.githubusercontent.com/96176817/165866950-32ab0f26-afb4-4ac8-bb33-3ad66e870f1b.png)
 
 
+## Summary Statistics on Suspension Coils
 Deliverable 2
 
 ![image](https://user-images.githubusercontent.com/96176817/166122437-98484ad5-feea-40b5-b0b3-a91b2cd801dc.png)
@@ -26,4 +29,35 @@ Deliverable 2
 •	The first two lots have variances of .97 and 7.46, so they both meet the design specification, but the third has a variance of 170.28, so it does not.
 
 
-I am seeking help on the rest of this project.
+## T-Tests on Suspension Coils
+Deliverable 3
+
+-	Lot 1:
+o	The p-value of 1.00 is above the .05 significance level, so I cannot reject the null hypothesis that this lot is statistically different than the population mean.
+
+-	Lot 2:
+o	The p-value of .60 is above the .05 significance level, so I cannot reject the null hypothesis that this lot is statistically different than the population mean.
+
+-	Lot 3:
+o	The p-value of .04 is less than the .05 significance level, so this lot is statistically similar to the population mean.
+
+![image](https://user-images.githubusercontent.com/96176817/167309399-095d62ee-be46-4616-8daa-f9a5efe02518.png)
+![image](https://user-images.githubusercontent.com/96176817/167309405-389b203d-8977-4d2b-bf0f-45bd0116dcf4.png)
+
+
+## Study Design: MechaCar vs Competition
+Deliverable 4
+
+-	Customers consider maintenance cost to be an important factor when purchasing a vehicle. A metric to test would be the average maintenance cost over a 5-year ownership period.
+
+o	Null hypothesis: There is no difference between the cost of owning a MechaCar versus a competitor.
+
+o	Alternate hypothesis: There is a difference between the cost of owning a MechaCar versus a competitor.
+
+o	I would use t-tests because it allows me to test across multiple competitors.
+
+o	The data that I would require includes:
+
+	The cost of the vehicle in new condition
+
+	The amount of money spent on each vehicle type over a 5-year ownership period
