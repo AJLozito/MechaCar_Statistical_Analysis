@@ -45,17 +45,3 @@ o	The p-value of .04 is less than the .05 significance level, so this lot is sta
 ![image](https://user-images.githubusercontent.com/96176817/167309405-389b203d-8977-4d2b-bf0f-45bd0116dcf4.png)
 
 
-## Study Design: MechaCar vs Competition
-Deliverable 4
-
-o	Null hypothesis: There is no difference between the cost of owning a MechaCar versus a competitor.
-
-o	Alternate hypothesis: There is a difference between the cost of owning a MechaCar versus a competitor.
-
-o	I would use t-tests because it allows me to test across multiple competitors.
-
-o	The data that I would require includes:
-
-	The cost of the vehicle in new condition
-
-	The amount of money spent on each vehicle type over a 5-year ownership period
