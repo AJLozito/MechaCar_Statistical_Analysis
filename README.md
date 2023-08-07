@@ -2,7 +2,6 @@
 
 
 ## Linear Regression to Predict MPG
-Deliverable 1
 
 •	The variables/coefficients listed	 below provide the most non-random amount of variance to the mpg values in the dataset:
   o	Pr(>|t|) -> Lower number = More non-random
@@ -17,20 +16,7 @@ Deliverable 1
 ![image](https://user-images.githubusercontent.com/96176817/165866950-32ab0f26-afb4-4ac8-bb33-3ad66e870f1b.png)
 
 
-## Summary Statistics on Suspension Coils
-Deliverable 2
-
-![image](https://user-images.githubusercontent.com/96176817/166122437-98484ad5-feea-40b5-b0b3-a91b2cd801dc.png)
-
-•	Since the total summary variance was 62.29 (less than 100), the manufacturing data meets the design specification.
-
-![image](https://user-images.githubusercontent.com/96176817/166122492-3f936f53-7cf9-4839-b1f6-2e0541bb253d.png)
-
-•	The first two lots have variances of .97 and 7.46, so they both meet the design specification, but the third has a variance of 170.28, so it does not.
-
-
 ## T-Tests on Suspension Coils
-Deliverable 3
 
 -	Lot 1:
 o	The p-value of 1.00 is above the .05 significance level, so I cannot reject the null hypothesis that this lot is statistically different than the population mean.
